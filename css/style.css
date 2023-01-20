@@ -1,30 +1,44 @@
 body {
     margin: 0;
     text-align: center;
+    font-family: "Roboto Slab", serif;
 }
 
 h1 {
     margin-top: 0;
+    font-family: "Pacifico", cursive;
 }
 
-div {
-    background-color: #3C6255;
+h2 {
+    font-family: "Comfortaa", sans-serif;
 }
+
+h3 {
+    font-family: "Comfortaa", sans-serif;
+}
+
 
 #top {
     position: relative;
+    background-color: #b5c6bc;
 }
 
 #middle {
-    width: 200px;
-    height: 200px;
-    background-color: beige;
 }
 
 #bottom {
-    width: 200px;
-    height: 200px;
-    background-color: aqua;
+}
+
+#home-profile-photo {
+    width: 150px;
+}
+
+#web-dev-png {
+    width: 150px;
+}
+
+#food-png {
+    width: 150px;
 }
 
 .cloud {
