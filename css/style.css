@@ -78,7 +78,7 @@ a {
 }
 
 .cloud {
-    width: 160px;
+    width: 200px;
 }
 
 .skill-row {
@@ -98,14 +98,14 @@ a {
 
 #top-cloud {
     position: relative;
-    left: 250px;
-    top: 70px;
+    left: 320px;
+    top: 90px;
 }
 
 #bottom-cloud {
     position: absolute;
-    bottom: 190px;
-    left: 320px;
+    bottom: 200px;
+    left: 230px;
 }
 
 .btn {
